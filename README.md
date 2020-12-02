@@ -1,2 +1,6 @@
 # selenium
-Test selenium project
+
+download or clone this files in one folder
+
+Run python script
+
